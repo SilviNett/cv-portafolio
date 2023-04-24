@@ -1,0 +1,64 @@
+
+.reseña{background-color: #000405; font-size: 12px;
+    color: black; color: rgb(255, 255, 255);
+}
+
+.carousel-item{
+    width: 300px;
+}
+
+.carousel{
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar{
+    color: #000405;
+    font-size: 20px;
+    background-color:rgb(255, 0, 98)
+}
+
+.nav-link
+{
+    color: #000405;
+
+}
+
+.sobre{
+    text-align: center;
+}
+
+.descripcion{
+    display: flex;
+    flex: 1;
+    border-width: 40px;
+    margin-right: 100px;
+
+}
+.texto_pr{
+    margin-right: 400px;
+    padding-top: 100px;
+    font-size: 15px;
+}
+
+.d-block{
+  width: 1000px;
+  text-align: center;
+}
+
+.proyectos{background-color: rgb(255, 0, 149);}
+.Titulo2{color: rgb(255, 0, 123);}
+
+.card-title{text-align: center;font-size: 30px;}
+.row{background-color: rgb(255, 0, 119);}
+
+.footer{background-color: rgb(255, 0, 183);}
+
+.container{background-color: rgb(255, 0, 115);display: flex;}
+
+.logo{width: 30px;}
+
+
+
+
+

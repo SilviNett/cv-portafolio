@@ -22,6 +22,7 @@ body {
 
 h1, h2, h3 {
 	margin: 0;
+	color: grey;
 }
 
 h1 {
@@ -73,8 +74,8 @@ ul li:before {
 }
 
 footer {
-	background-color: #f1f1f1;
-	color: #666;
+	background-color: #ff0066;
+	color: #ffffff;
 	padding: 20px;
 }
 
@@ -96,12 +97,12 @@ nav li {
 }
 
 nav a {
-	color: #666;
+	color: #ffffff;
 	text-decoration: none;
 	font-weight: bold;
 	font-size: 14px;
 }
 
 nav a:hover {
-	color: #333;
+	color: #090909;
 }
